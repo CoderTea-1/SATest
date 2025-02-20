@@ -1,6 +1,7 @@
 {
   "name": "implicit-bias",
   "version": "0.1.0",
+  "homepage": "sa-test-one.vercel.app",
   "private": true,
   "dependencies": {
     "connected-react-router": "^6.5.2",
